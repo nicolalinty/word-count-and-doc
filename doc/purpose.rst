@@ -1,12 +1,10 @@
 
-
 Purpose
 =======
 
-Write me ...
+This is a test project to learn to use *Markdown*, Git and **ReadTheDocs**
 
+Example
+-------
 
-Zipf's law
-----------
-
-Write me ...
+This is a subsection.
